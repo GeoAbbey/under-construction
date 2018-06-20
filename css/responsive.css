@@ -1,0 +1,13 @@
+@media (max-width: 577px) { 
+	body {
+		background: #f60 !important;
+		height: unset;
+	}
+	.logo{
+		margin-bottom: 35px !important;
+	}
+
+	.overlay1{
+		position: unset;
+	}
+}
